@@ -1,0 +1,65 @@
+.js .nav {
+		display:none;
+}	
+.js #rspnavigation {
+	display:block;
+}
+#rspnavigation ul{
+    margin: 0;
+    padding: 0;
+}
+#usmap{
+    padding: 130px 0 0 0;
+}
+#indiana_county {
+    padding: 103px 0;
+}
+.popup .popuplinks li:first-child{
+    float: left;
+    padding-right: 0 !important;
+}
+.popup .popuplinks li:last-child{
+    float: right;
+    padding-left: 0 !important;
+}
+.marker1{
+    left: 58px;
+    top: 119px;
+}
+.marker2{
+    left: 163px;
+    top: 93px;
+}
+.desktopview{
+    display: none;
+}
+.mobileview{
+    display: block;
+}
+.dashboardBlock .span_4_of_12{
+    width: 32.26%;
+}
+.dwicon {
+    background: rgba(0, 0, 0, 0) url("../../images/dw_105_82.png") no-repeat scroll 0 0;
+    height: 129px;
+    margin: 0 auto;
+    width: 105px;
+}
+.dw_title{
+    font-size: 11px;
+    padding: 4px 2px;
+    line-height: 120%;
+}
+.dw_comments{
+    width: 105px;
+    top: 38px;
+}
+.profile1{
+    float: none;
+}
+.profile2{
+    float: none;
+}
+.innerHeader .span_4_of_12{
+    width: 32.26%;
+}

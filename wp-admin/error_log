@@ -1,0 +1,5 @@
+[06-Apr-2015 09:37:31 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '{' or '$' in /home2/prasidch/public_html/netwrk/wp-content/plugins/netwrk-group/edit_group_function.php on line 42
+[06-Apr-2015 09:47:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/prasidch/public_html/netwrk/wp-content/plugins/netwrk-group/edit_group_function.php on line 39
+[06-Apr-2015 09:47:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/prasidch/public_html/netwrk/wp-content/plugins/netwrk-group/edit_group_function.php on line 39
+[06-Apr-2015 09:48:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/prasidch/public_html/netwrk/wp-content/plugins/netwrk-group/edit_group_function.php on line 8
+[06-Apr-2015 09:48:46 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/prasidch/public_html/netwrk/wp-content/plugins/netwrk-group/edit_group_function.php on line 39
